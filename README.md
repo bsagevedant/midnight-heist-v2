@@ -32,7 +32,7 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/midnight-heist.git
+git clone https://github.com/yourusername/midnight-heist-v2.git
 cd midnight-heist
 ```
 
@@ -86,7 +86,7 @@ The guards in the game use **Finite State Machines (FSM)** for state transitions
 1. Fork the repo on GitHub.
 2. Clone it using:
 ```bash
-git clone https://github.com/yourusername/midnight-heist.git
+git clone https://github.com/yourusername/midnight-heist-v2.git
 ```
 3. Create a new branch for your feature:
 ```bash
